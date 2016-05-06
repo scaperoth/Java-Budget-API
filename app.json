@@ -1,0 +1,6 @@
+{
+  "name": "Budget",
+  "description": "A Java RESTful API to manage a budget.",
+  "image": "heroku/java",
+  "addons": [ "heroku-postgresql" ]
+}
